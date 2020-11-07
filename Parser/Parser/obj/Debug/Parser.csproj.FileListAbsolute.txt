@@ -1,0 +1,11 @@
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\bin\Debug\IronyTest.exe.config
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\bin\Debug\IronyTest.exe
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\bin\Debug\IronyTest.pdb
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\bin\Debug\Irony.pdb
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\bin\Debug\Irony.Interpreter.pdb
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\obj\Debug\Parser.csprojResolveAssemblyReference.cache
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\obj\Debug\IronyTest.Form1.resources
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\obj\Debug\IronyTest.Properties.Resources.resources
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\obj\Debug\Parser.csproj.GenerateResource.Cache
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\obj\Debug\IronyTest.exe
+D:\Personal Projects\CompilerProjectIrony\Parser\Parser\obj\Debug\IronyTest.pdb

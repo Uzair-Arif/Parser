@@ -1,0 +1,19 @@
+c:\users\uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\bin\Debug\IronyTest.exe.config
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\bin\Debug\IronyTest.exe
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\bin\Debug\IronyTest.pdb
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\bin\Debug\Irony.dll
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\bin\Debug\Irony.Interpreter.dll
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\bin\Debug\Irony.pdb
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\bin\Debug\Irony.Interpreter.pdb
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\obj\Debug\IronyTest.csprojResolveAssemblyReference.cache
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\obj\Debug\IronyTest.Form1.resources
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\obj\Debug\IronyTest.Properties.Resources.resources
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\obj\Debug\IronyTest.csproj.GenerateResource.Cache
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\obj\Debug\IronyTest.exe
+C:\Users\Uzair\documents\visual studio 2012\Projects\IronyTest\IronyTest\obj\Debug\IronyTest.pdb
+G:\sem1,2,3,4,5,6,7,8\Compiler Construction\CompilerProjectIrony\IronyTest\IronyTest\bin\Debug\IronyTest.exe.config
+G:\sem1,2,3,4,5,6,7,8\Compiler Construction\CompilerProjectIrony\IronyTest\IronyTest\obj\Debug\IronyTest.exe
+G:\sem1,2,3,4,5,6,7,8\Compiler Construction\CompilerProjectIrony\IronyTest\IronyTest\obj\Debug\IronyTest.pdb
+D:\Personal Projects\CompilerProjectIrony\IronyTest\IronyTest\bin\Debug\IronyTest.exe.config
+D:\Personal Projects\CompilerProjectIrony\IronyTest\IronyTest\obj\Debug\IronyTest.exe
+D:\Personal Projects\CompilerProjectIrony\IronyTest\IronyTest\obj\Debug\IronyTest.pdb
